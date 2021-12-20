@@ -6,7 +6,7 @@ Create a password generator
 
 
 ## Website:
-https://week5.github.io/friendly-parakeet
+https://week5.friendly-parakeet.github.io
 
 
 ## Created With:
