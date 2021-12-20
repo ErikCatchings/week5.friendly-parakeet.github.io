@@ -10,7 +10,7 @@ https://week5.friendly-parakeet.github.io
 
 
 ## Created With:
-HTML 
-CSS
-JavaScript
+- HTML 
+- CSS
+- JavaScript
   
