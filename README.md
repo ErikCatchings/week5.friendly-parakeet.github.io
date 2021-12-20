@@ -6,19 +6,12 @@
 
 
 ## Website:
-https://mssjhu9.github.io/friendly-parakeet/
+https://week5.github.io/friendly-parakeet
+
+
 
 ## Build With:
 HTML 
 CSS
-JS
-
-## Tools:
-  VS Code
-  GitHub
-  Git Bash
+JavaScript
   
-  ## Browser:
-  Chrome
-  ## Contribution
-❤️ Maria Jayakumar
